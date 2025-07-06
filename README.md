@@ -1,6 +1,6 @@
 # Task app to manage daily tasks created with React + TailwindCSS
 
-## React + Vite
+## React + Vite Project
 
 
 ### Client start:
