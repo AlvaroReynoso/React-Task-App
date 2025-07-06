@@ -3,7 +3,7 @@
 ## React + Vite
 
 
-### Client
+### Client start:
 
 ```bash
   cd client
